@@ -48,7 +48,10 @@ Git & GitHub	Version control and documentation
 
 > “Calculate 4 to the power of 5.”
 
+## 📸 Project Screenshot
 
+### 🔹 AI Agent performing exponent calculation
+![AI Agent Screenshot](https://github.com/SamuelAI-Analyst/AI-PowerTool-LangChain/blob/main/IMG-20251120-WA0010(1).jpg)
 
 2️⃣ The LangChain agent:
 
